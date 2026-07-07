@@ -52,7 +52,7 @@ Currently pursuing an MS in CS (AI concentration) at University at Buffalo to de
 
 ### What I've Been Building
 
-- Re-architected a monolithic frontend into a micro-frontend using module federation — cut build times by 40%
+- Re-architected a monolithic frontend into a micro-frontend using module federation, cut build times by 40%
 - Built event-driven microservices with Kafka and RabbitMQ, raising platform throughput 35% under peak load
 - Introduced Redis caching/pub-sub across core services, cutting average API response time by 45%
 - Set up Prometheus/Grafana/ELK observability, reducing incident detection time by over 50%
