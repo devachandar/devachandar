@@ -44,7 +44,7 @@ Buffalo, NY
 |---|---|---|
 | **LearnSpace** | Full LMS platform with Instructor/Student roles, built as a take-home interview project | Django REST Framework, React/Next.js, Plate.js |
 | **Classovo** | Rich text editing platform frontend | React, Plate.js v53 |
-| **Multi-Tenant SaaS Platform** | Portfolio anchor project demonstrating tenant isolation and scalable architecture | *(add stack details)* |
+| **Multi-Tenant SaaS Platform** | Portfolio anchor project demonstrating tenant isolation and scalable architecture | Django REST Framework, React.js, PostgreSQL (schema-based tenant isolation), Redis (caching/session mgmt), Docker, AWS |
 
 ---
 
