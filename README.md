@@ -3,7 +3,7 @@
 
 <p align="center">
 Full-stack engineer with 4+ years shipping production systems across frontend, backend, and cloud infrastructure.
-Currently pursuing an MS in CS (AI concentration) at University at Buffalo to deepen applied ML expertise.
+Currently pursuing an MS in CS (AI concentration) at University at Buffalo to deepen applied AI.
 </p>
 
 <p align="center">
