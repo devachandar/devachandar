@@ -8,7 +8,6 @@ Currently pursuing an MS in CS (AI concentration) at University at Buffalo to de
 
 💬 Ask me about microservices architecture, system design, React/Django/Kafka-based backends, or my transition into ML engineering.
 
-📫 Reach me at devachandar1@gmail.com
 
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devachandar1@gmail.com)
@@ -61,4 +60,10 @@ Currently pursuing an MS in CS (AI concentration) at University at Buffalo to de
 
 
 ---
-📌 Pinned: [LearnSpace](https://github.com/devachandar/learnspace) · [Classovo](https://github.com/devachandar/classovo) · Multi-Tenant SaaS Platform
+### Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **LearnSpace** | Full LMS platform with Instructor/Student roles, built as a take-home interview project | Django REST Framework, React/Next.js, Plate.js |
+| **Classovo** | Rich text editing platform frontend | React, Plate.js v53 |
+| **Multi-Tenant SaaS Platform** | Portfolio anchor project demonstrating tenant isolation and scalable architecture | Django REST Framework, React.js, PostgreSQL (schema-based tenant isolation), Redis (caching/session mgmt), Docker, AWS |
