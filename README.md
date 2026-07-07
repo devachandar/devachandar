@@ -1,5 +1,4 @@
-### Hi 👋, I'm Devachandar
-
+<h1 align="center">Devachandar Istalingam</h1>
 <h3 align="center">Full-Stack Software Engineer | Building toward AI/ML Engineering</h3>
 
 <p align="center">
