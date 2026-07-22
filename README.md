@@ -64,6 +64,7 @@ Currently pursuing an MS in CS (AI concentration) at University at Buffalo to de
 
 | Project | Description | Stack |
 |---|---|---|
-| **LearnSpace** | Full LMS platform with Instructor/Student roles, built as a take-home interview project | Django REST Framework, React/Next.js, Plate.js |
-| **Classovo** | Rich text editing platform frontend | React, Plate.js v53 |
+| **ServiceHub** | Verified-provider booking marketplace (Thumbtack-style) - 11 microservices, RBAC, real-time chat, Celery-driven payment processing with retry semantics, RabbitMQ/Redis event-driven notifications | Django REST Framework, PostgreSQL, Celery, RabbitMQ, Redis, Elasticsearch, React, TypeScript, Redux Toolkit, MUI, Docker |
+| **LearnSphere** | Multi-tenant LMS - org-scoped courses/quizzes/certificates, RabbitMQ topic-exchange event bus with durable per-service queues, Postgres full-text course search | Node.js, TypeScript, Express, PostgreSQL, RabbitMQ, Redis, React, TanStack Query, Tailwind CSS, Docker |
+| **HomeScape** | Real-estate marketplace - buyer search, seller listings, inquiries, event-driven notifications via Redis pub/sub | Node.js, Express, React, PostgreSQL, Redis, Elasticsearch, Docker |
 | **Multi-Tenant SaaS Platform** | Portfolio anchor project demonstrating tenant isolation and scalable architecture | Django REST Framework, React.js, PostgreSQL (schema-based tenant isolation), Redis (caching/session mgmt), Docker, AWS |
